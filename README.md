@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/silvanorm/results-summary-component)
+- Live Site URL: [Github Pages](https://silvanorm.github.io/results-summary-component/)
 
 ## My process
 
